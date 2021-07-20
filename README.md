@@ -1,1 +1,1 @@
-# sam-pipelines-jenkins-demo - example..
+# sam-pipelines-jenkins-demo - example
